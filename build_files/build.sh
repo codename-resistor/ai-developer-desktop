@@ -68,6 +68,8 @@ dnf5 install -y tmux
 dnf5 -y copr enable gordonmessmer/nodejs-electron
 dnf5 -y install podman-desktop
 
-#### Example for enabling a System Unit File
+#### Enable system services
 
 systemctl enable podman.socket
+
+/ctx/install-openshell.sh
