@@ -66,4 +66,5 @@ dnf5 install -y tmux
 # dnf5 -y copr disable ublue-os/staging
 
 /ctx/install-podman.sh
+/ctx/install-moby-engine.sh
 /ctx/install-openshell.sh
